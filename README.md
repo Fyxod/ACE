@@ -14,7 +14,7 @@ To get started with the Anonymous Connection Establisher platform, simply sign u
 
 Developers
 
-This project is developed by team Hack404, the members are: Om Rajpal, Vaibhav Sundriyal, Parth Katiyar, Mukul Srivastava  We are committed to providing a reliable and user-friendly platform for anonymous connections and activities.
+This project is developed by team HacK404, the members are: [Om Rajpal](https://github.com/om13rajpal), [Vaibhav Sundriyal](https://github.com/PHYNiX29), [Parth Katiyar](https://github.com/Fyxod), [Mukul Srivastava](https://github.com/srivastavamukul).  We are committed to providing a reliable and user-friendly platform for anonymous connections and activities.
 
 Support
 
